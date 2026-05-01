@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGscP11SgeA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tifle\\RiderProjects\\mpp-proiect-csharp-Tlarisa06\\TriathlonSystem\\Triathlon.Server\\Triathlon.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tifle\\.nuget\\packages\\messagepack\\3.1.4\\messagepack.3.1.4.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\messagepack.annotations\\3.1.4\\messagepack.annotations.3.1.4.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\messagepackanalyzer\\3.1.4\\messagepackanalyzer.3.1.4.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\microsoft.net.stringtools\\17.11.4\\microsoft.net.stringtools.17.11.4.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\sourcegear.sqlite3\\3.50.4.2\\sourcegear.sqlite3.3.50.4.2.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\3.0.2\\sqlitepclraw.bundle_e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\sqlitepclraw.config.e_sqlite3\\3.0.2\\sqlitepclraw.config.e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\sqlitepclraw.core\\3.0.2\\sqlitepclraw.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\3.0.2\\sqlitepclraw.provider.e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\system.configuration.configurationmanager\\11.0.0-preview.2.26159.112\\system.configuration.configurationmanager.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\system.data.sqlite\\2.0.3\\system.data.sqlite.2.0.3.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\system.diagnostics.eventlog\\11.0.0-preview.2.26159.112\\system.diagnostics.eventlog.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\tifle\\.nuget\\packages\\system.security.cryptography.protecteddata\\11.0.0-preview.2.26159.112\\system.security.cryptography.protecteddata.11.0.0-preview.2.26159.112.nupkg.sha512"
+  ],
+  "logs": []
+}

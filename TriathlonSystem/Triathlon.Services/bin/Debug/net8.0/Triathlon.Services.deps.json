@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Triathlon.Services/1.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "11.0.0-preview.2.26159.112",
+          "System.Data.SQLite": "2.0.3",
+          "Triathlon.Model": "1.0.0"
+        },
+        "runtime": {
+          "Triathlon.Services.dll": {}
+        }
+      },
+      "System.Configuration.ConfigurationManager/11.0.0-preview.2.26159.112": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "11.0.0-preview.2.26159.112"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.16012"
+          }
+        }
+      },
+      "System.Data.SQLite/2.0.3": {
+        "runtime": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "assemblyVersion": "2.0.3.0",
+            "fileVersion": "2.0.3.0"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/11.0.0-preview.2.26159.112": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.16012"
+          }
+        }
+      },
+      "Triathlon.Model/1.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "11.0.0-preview.2.26159.112",
+          "System.Data.SQLite": "2.0.3"
+        },
+        "runtime": {
+          "Triathlon.Model.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Triathlon.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Configuration.ConfigurationManager/11.0.0-preview.2.26159.112": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RDjQNSmeZ8COSzs3uQBJj3AGxmkFCS2xHDIdRpCX/z0IzUjoXoXx8WeHXXhOrAOgjNYiYxggnCRUfRUdApJm1g==",
+      "path": "system.configuration.configurationmanager/11.0.0-preview.2.26159.112",
+      "hashPath": "system.configuration.configurationmanager.11.0.0-preview.2.26159.112.nupkg.sha512"
+    },
+    "System.Data.SQLite/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5I9dVqmHp1v0dhco21btIRkUE47zHSy4t6bRLwIO6nGZ1mxGIL1f1yp1zWI/AAZFfdUz7n6RrH1hyi/6EhlIeQ==",
+      "path": "system.data.sqlite/2.0.3",
+      "hashPath": "system.data.sqlite.2.0.3.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/11.0.0-preview.2.26159.112": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QWayRs8FNSWtEQGHTIWBF9AmLyZv1LL25fj8OPF4GNlrEnKboHGDDxES5kPUvnwrZ6RoBOtwNZ74yGMdf7xc+w==",
+      "path": "system.security.cryptography.protecteddata/11.0.0-preview.2.26159.112",
+      "hashPath": "system.security.cryptography.protecteddata.11.0.0-preview.2.26159.112.nupkg.sha512"
+    },
+    "Triathlon.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

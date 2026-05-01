@@ -1,0 +1,191 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Triathlon.Networking/1.0.0": {
+        "dependencies": {
+          "MessagePack": "3.1.4",
+          "Triathlon.Model": "1.0.0",
+          "Triathlon.Services": "1.0.0"
+        },
+        "runtime": {
+          "Triathlon.Networking.dll": {}
+        }
+      },
+      "MessagePack/3.1.4": {
+        "dependencies": {
+          "MessagePack.Annotations": "3.1.4",
+          "Microsoft.NET.StringTools": "17.11.4"
+        },
+        "runtime": {
+          "lib/net9.0/MessagePack.dll": {
+            "assemblyVersion": "3.1.4.0",
+            "fileVersion": "3.1.4.0"
+          }
+        }
+      },
+      "MessagePack.Annotations/3.1.4": {
+        "runtime": {
+          "lib/netstandard2.0/MessagePack.Annotations.dll": {
+            "assemblyVersion": "3.1.4.0",
+            "fileVersion": "3.1.4.0"
+          }
+        }
+      },
+      "Microsoft.NET.StringTools/17.11.4": {
+        "runtime": {
+          "lib/net8.0/Microsoft.NET.StringTools.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "17.11.4.40609"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/11.0.0-preview.2.26159.112": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "11.0.0-preview.2.26159.112",
+          "System.Security.Cryptography.ProtectedData": "11.0.0-preview.2.26159.112"
+        },
+        "runtime": {
+          "lib/net10.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.16012"
+          }
+        }
+      },
+      "System.Data.SQLite/2.0.3": {
+        "runtime": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "assemblyVersion": "2.0.3.0",
+            "fileVersion": "2.0.3.0"
+          }
+        }
+      },
+      "System.Diagnostics.EventLog/11.0.0-preview.2.26159.112": {
+        "runtime": {
+          "lib/net10.0/System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.16012"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net10.0/System.Diagnostics.EventLog.Messages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/lib/net10.0/System.Diagnostics.EventLog.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.16012"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/11.0.0-preview.2.26159.112": {
+        "runtime": {
+          "lib/net10.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.16012"
+          }
+        }
+      },
+      "Triathlon.Model/1.0.0": {
+        "dependencies": {
+          "MessagePack": "3.1.4",
+          "System.Configuration.ConfigurationManager": "11.0.0-preview.2.26159.112",
+          "System.Data.SQLite": "2.0.3"
+        },
+        "runtime": {
+          "Triathlon.Model.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Triathlon.Services/1.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "11.0.0-preview.2.26159.112",
+          "System.Data.SQLite": "2.0.3",
+          "Triathlon.Model": "1.0.0"
+        },
+        "runtime": {
+          "Triathlon.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Triathlon.Networking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MessagePack/3.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BH0wlHWmVoZpbAPyyt2Awbq30C+ZsS3eHSkYdnyUAbqVJ22fAJDzn2xTieBeoT5QlcBzp61vHcv878YJGfi3mg==",
+      "path": "messagepack/3.1.4",
+      "hashPath": "messagepack.3.1.4.nupkg.sha512"
+    },
+    "MessagePack.Annotations/3.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aVWrDAkCdqxwQsz/q0ldPh2EFn48M99YUzE9OvZjMq2RNLKz4o2z88iGFvSvbMqOWRweRvKPHBJZe22PRqzslQ==",
+      "path": "messagepack.annotations/3.1.4",
+      "hashPath": "messagepack.annotations.3.1.4.nupkg.sha512"
+    },
+    "Microsoft.NET.StringTools/17.11.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mudqUHhNpeqIdJoUx2YDWZO/I9uEDYVowan89R6wsomfnUJQk6HteoQTlNjZDixhT2B4IXMkMtgZtoceIjLRmA==",
+      "path": "microsoft.net.stringtools/17.11.4",
+      "hashPath": "microsoft.net.stringtools.17.11.4.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/11.0.0-preview.2.26159.112": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RDjQNSmeZ8COSzs3uQBJj3AGxmkFCS2xHDIdRpCX/z0IzUjoXoXx8WeHXXhOrAOgjNYiYxggnCRUfRUdApJm1g==",
+      "path": "system.configuration.configurationmanager/11.0.0-preview.2.26159.112",
+      "hashPath": "system.configuration.configurationmanager.11.0.0-preview.2.26159.112.nupkg.sha512"
+    },
+    "System.Data.SQLite/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5I9dVqmHp1v0dhco21btIRkUE47zHSy4t6bRLwIO6nGZ1mxGIL1f1yp1zWI/AAZFfdUz7n6RrH1hyi/6EhlIeQ==",
+      "path": "system.data.sqlite/2.0.3",
+      "hashPath": "system.data.sqlite.2.0.3.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/11.0.0-preview.2.26159.112": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RG7rjmc0FeJdJs9+ri6fm25uOEoByx75OZUPsHYJ1bZqPX5wXRnsmmZHZ8mVnydOq5w0GSpRbsYxMCkSDFE4xw==",
+      "path": "system.diagnostics.eventlog/11.0.0-preview.2.26159.112",
+      "hashPath": "system.diagnostics.eventlog.11.0.0-preview.2.26159.112.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/11.0.0-preview.2.26159.112": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QWayRs8FNSWtEQGHTIWBF9AmLyZv1LL25fj8OPF4GNlrEnKboHGDDxES5kPUvnwrZ6RoBOtwNZ74yGMdf7xc+w==",
+      "path": "system.security.cryptography.protecteddata/11.0.0-preview.2.26159.112",
+      "hashPath": "system.security.cryptography.protecteddata.11.0.0-preview.2.26159.112.nupkg.sha512"
+    },
+    "Triathlon.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Triathlon.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

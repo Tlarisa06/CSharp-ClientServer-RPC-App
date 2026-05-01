@@ -1,0 +1,13 @@
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\bin\Debug\net10.0\Triathlon.Model.deps.json
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\bin\Debug\net10.0\Triathlon.Model.dll
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\bin\Debug\net10.0\Triathlon.Model.pdb
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\obj\Debug\net10.0\Triathlon.Model.csproj.AssemblyReference.cache
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\obj\Debug\net10.0\Triathlon.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\obj\Debug\net10.0\Triathlon.Model.AssemblyInfoInputs.cache
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\obj\Debug\net10.0\Triathlon.Model.AssemblyInfo.cs
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\obj\Debug\net10.0\Triathlon.Model.csproj.CoreCompileInputs.cache
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\obj\Debug\net10.0\Triathlon.Model.sourcelink.json
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\obj\Debug\net10.0\Triathlon.Model.dll
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\obj\Debug\net10.0\refint\Triathlon.Model.dll
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\obj\Debug\net10.0\Triathlon.Model.pdb
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Model\obj\Debug\net10.0\ref\Triathlon.Model.dll

@@ -1,0 +1,16 @@
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\bin\Debug\net10.0\Triathlon.Services.deps.json
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\bin\Debug\net10.0\Triathlon.Services.dll
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\bin\Debug\net10.0\Triathlon.Services.pdb
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\bin\Debug\net10.0\Triathlon.Model.dll
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\bin\Debug\net10.0\Triathlon.Model.pdb
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\obj\Debug\net10.0\Triathlon.Services.csproj.AssemblyReference.cache
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\obj\Debug\net10.0\Triathlon.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\obj\Debug\net10.0\Triathlon.Services.AssemblyInfoInputs.cache
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\obj\Debug\net10.0\Triathlon.Services.AssemblyInfo.cs
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\obj\Debug\net10.0\Triathlon.Services.csproj.CoreCompileInputs.cache
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\obj\Debug\net10.0\Triathlon.Services.sourcelink.json
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\obj\Debug\net10.0\Triathlo.00F9E225.Up2Date
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\obj\Debug\net10.0\Triathlon.Services.dll
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\obj\Debug\net10.0\refint\Triathlon.Services.dll
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\obj\Debug\net10.0\Triathlon.Services.pdb
+C:\Users\tifle\RiderProjects\mpp-proiect-csharp-Tlarisa06\TriathlonSystem\Triathlon.Services\obj\Debug\net10.0\ref\Triathlon.Services.dll

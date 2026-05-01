@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net10.0-windows</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+
+        <UseWPF>true</UseWPF>
+
+        <EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="MessagePack" Version="3.1.4" />
+        <PackageReference Include="System.Configuration.ConfigurationManager" Version="11.0.0-preview.2.26159.112" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Triathlon.Model\Triathlon.Model.csproj" />
+        <ProjectReference Include="..\Triathlon.Networking\Triathlon.Networking.csproj" />
+        <ProjectReference Include="..\Triathlon.Services\Triathlon.Services.csproj" />
+    </ItemGroup>
+
+</Project>
