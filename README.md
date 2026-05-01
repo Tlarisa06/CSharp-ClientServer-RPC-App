@@ -47,3 +47,6 @@ The solution is structured as follows:
 1.  **Start the Server**: Run the Server project. It will initialize the database connection and start listening for incoming client requests.
 2.  **Launch Clients**: Start multiple client instances to verify the real-time notification system and concurrent result management.
 3.  **Configuration**: Connection strings and server settings can be adjusted in the application configuration files.
+
+---
+*Developed for the "Distributed Cross-Platform Applications" Assignment - 2026*
